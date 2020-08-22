@@ -1,0 +1,24 @@
+title: Start
+tags: 
+colorID: 0
+position: 732,334
+---
+Hey! This is a pretty sweet cafe you have here.
+
+[[ Thanks, man! |PositiveResponse]]
+[[ Get out of here, you punk! |NegativeResponse]]
+===
+title: PositiveResponse
+tags: 
+colorID: 0
+position: 1135,192
+---
+I bet the coffee is just as good!
+===
+title: NegativeResponse
+tags: 
+colorID: 0
+position: 1153,621
+---
+Wow okay, I bet your coffee sucks.
+===
